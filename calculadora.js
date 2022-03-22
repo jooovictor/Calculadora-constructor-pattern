@@ -1,4 +1,4 @@
-MODULE = (function () {
+CALCULO = (function () {
     const calculadora = { 
         display: 0,
     }
